@@ -1,0 +1,9 @@
+0,sales,34431,79228
+1,marketing,52714,76203
+2,shipping,37583,78807
+3,purchasing,59111,35485
+4,development,60085,40213
+5,research,34024,73318
+6,infrastructure,50737,59200
+7,human resources,14306,64938
+8,communication,89119,34160
